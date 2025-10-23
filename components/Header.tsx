@@ -48,7 +48,7 @@ const Header: React.FC<HeaderProps> = ({ currentPage, navigateTo }) => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center gap-2">
-              <img src="/src/1.png" alt="Timeless_logo" className="w-8 h-8 object-contain"/>
+              <img src="https://i.ibb.co/chHwdGbr/1.png" alt="Timeless_logo" className="w-8 h-8 object-contain"/>
               <span className="text-xl font-bold text-brand-gray-800">Timeless AI</span>
             </div>
             <nav className="hidden md:ml-10 md:flex md:space-x-8">
